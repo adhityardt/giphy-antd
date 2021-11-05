@@ -1,0 +1,6 @@
+.ant-row {
+  margin-top: 10px;
+}
+.ant-btn-icon-only.ant-btn-lg {
+  background-image: linear-gradient(45deg, rgb(153, 51, 255) 0%, rgb(255, 102, 102) 100%);
+}
